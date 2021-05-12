@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
+@import url("https://fonts.google.com/specimen/Marcellus#standard-styles");
+
+body {
+  font-family: "Marcellus", serif;
+  margin: 0;
+}
+.DragonArchetypesBody {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  background-color: #d4c600;
+  text-align: center;
+}
+
+.DSDKBody {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  background-color: #eeb085;
+  text-align: center;
+}
+.DragonNatureBody {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  background-color: #c26a4a;
+  text-align: center;
+}
+
+header {
+  padding: 30px;
+  background-image: url("Bilder/DragonScalesHeader.jpg");
+  /* background-size: cover; */
+  text-align: center;
+}
+.DragonArchetypesHeader {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  background-color: #eec489;
+  text-align: center;
+}
+
+.DSDKHeader {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  background-color: #eeb085;
+  text-align: center;
+}
+
+.DragonNatureHeader {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  background-color: #c26a4a;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.HeaderLinks {
+  text-decoration: none;
+  color: #e4002e;
+}
+
+#DragonArchetypes {
+  padding: 30px;
+  background-image: url("Bilder/DragonArchetypes-Background.jpg");
+  background-color: #d4c600;
+  text-align: center;
+  text-decoration-color: #a6ff00;
+}
+
+.DragonArchetypesLink {
+  text-decoration: none;
+  color: #00f13c;
+}
+
+#DSDK {
+  padding: 30px;
+  background-image: url("Bilder/DSDK-background.jpg");
+  background-color: #eeb085;
+  text-align: center;
+}
+
+.DSDKLink {
+  text-decoration: none;
+  color: #b83100;
+}
+
+#DragonNature {
+  padding: 30px;
+  background-color: #c26a4a;
+  text-align: center;
+}
+
+.DragonNatureLink {
+  text-decoration: none;
+  color: #e7c500;
+}
+
+footer {
+  padding: 30px;
+  background-color: #eb5857;
+  text-align: center;
+}
+.Interactive:hover {
+  transform: scale(1.075);
+  transition: 0.5s;
+}
+.DragonArchetypesLink:hover {
+  transform: 2;
+}
