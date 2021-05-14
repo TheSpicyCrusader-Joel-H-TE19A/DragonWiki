@@ -60,43 +60,40 @@ ul {
 
 .HeaderLinks {
   text-decoration: none;
-  color: #e4002e;
+  color: #ffffff;
 }
 
 #DragonArchetypes {
   padding: 30px;
   background-image: url("Bilder/DragonArchetypes-Background.jpg");
-  background-color: #d4c600;
   text-align: center;
-  text-decoration-color: #a6ff00;
 }
 
 .DragonArchetypesLink {
   text-decoration: none;
-  color: #00f13c;
+  color: #00e1f1;
 }
 
 #DSDK {
   padding: 30px;
   background-image: url("Bilder/DSDK-background.jpg");
-  background-color: #eeb085;
   text-align: center;
 }
 
 .DSDKLink {
   text-decoration: none;
-  color: #b83100;
+  color: #ae00ff;
 }
 
 #DragonNature {
   padding: 30px;
-  background-color: #c26a4a;
+  background-image: url("Bilder/DragonNature-Background.jpg");
   text-align: center;
 }
 
 .DragonNatureLink {
   text-decoration: none;
-  color: #e7c500;
+  color: #e73600;
 }
 
 footer {
