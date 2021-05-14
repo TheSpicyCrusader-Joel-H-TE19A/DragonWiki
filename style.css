@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
-@import url("https://fonts.google.com/specimen/Marcellus#standard-styles");
 
 body {
   font-family: "Marcellus", serif;
@@ -28,27 +27,26 @@ body {
 header {
   padding: 30px;
   background-image: url("Bilder/DragonScalesHeader.jpg");
-  /* background-size: cover; */
   text-align: center;
 }
 .DragonArchetypesHeader {
   font-family: "Crimson Text", serif;
   margin: 0;
-  background-color: #eec489;
+  background-image: url("Bilder/DragonArchetypes-Background.jpg");
   text-align: center;
 }
 
 .DSDKHeader {
   font-family: "Crimson Text", serif;
   margin: 0;
-  background-color: #eeb085;
+  background-image: url("Bilder/DSDK-background.jpg");
   text-align: center;
 }
 
 .DragonNatureHeader {
   font-family: "Crimson Text", serif;
   margin: 0;
-  background-color: #c26a4a;
+  background-image: url("Bilder/DragonNature-Background.jpg");
   text-align: center;
 }
 
